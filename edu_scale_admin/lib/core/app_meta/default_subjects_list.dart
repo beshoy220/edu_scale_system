@@ -1,0 +1,18 @@
+final List<String> defaultSubjectsList = [
+  "Arabic",
+  "English",
+  "French",
+  "Math",
+  "Science",
+  "History",
+  "Geography",
+  "Physics",
+  "Chemistry",
+  "Biology",
+  "Art",
+  "PE",
+  "Computer",
+  "Religion",
+  "Social Studies",
+  "Music",
+];
